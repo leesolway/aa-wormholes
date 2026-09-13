@@ -123,12 +123,19 @@ class Command(BaseCommand):
         skipped = 0
         for row in _load("wormhole_systems.json"):
             try:
-                solar_system = SolarSystem.objects.get(pk=row["solar_system_id"])
+                solar_system = SolarSystem.objects.select_related("constellation").get(
+                    pk=row["solar_system_id"]
+                )
             except SolarSystem.DoesNotExist:
                 skipped += 1
                 continue
 
-            wormhole_class = class_by_id.get(solar_system.wormhole_class_id_raw)
+            # SDE omits wormholeClassID on individual J-systems; fall back to
+            # the constellation's wormholeClassID, which is always populated.
+            wormhole_class = class_by_id.get(
+                solar_system.wormhole_class_id_raw
+                or (solar_system.constellation and solar_system.constellation.wormhole_class_id_raw)
+            )
             wormhole_system, _created = WormholeSystem.objects.update_or_create(
                 solar_system=solar_system,
                 defaults={
