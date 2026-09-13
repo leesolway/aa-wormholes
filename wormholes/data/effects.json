@@ -1,0 +1,565 @@
+[
+  {
+    "name": "Red Giant",
+    "modifiers": [
+      {
+        "name": "Smart Bomb Damage",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+30%",
+          "+44%",
+          "+58%",
+          "+72%",
+          "+86%",
+          "+100%"
+        ]
+      },
+      {
+        "name": "Heat Damage",
+        "is_positive": false,
+        "magnitude_by_class": [
+          "+15%",
+          "+22%",
+          "+29%",
+          "+36%",
+          "+43%",
+          "+50%"
+        ]
+      },
+      {
+        "name": "Overload Bonus",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+30%",
+          "+44%",
+          "+58%",
+          "+72%",
+          "+86%",
+          "+100%"
+        ]
+      },
+      {
+        "name": "Bomb Damage",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+30%",
+          "+44%",
+          "+58%",
+          "+72%",
+          "+86%",
+          "+100%"
+        ]
+      },
+      {
+        "name": "Smart Bomb Range",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+30%",
+          "+44%",
+          "+58%",
+          "+72%",
+          "+86%",
+          "+100%"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Black Hole",
+    "modifiers": [
+      {
+        "name": "Missile Velocity",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+15%",
+          "+22%",
+          "+29%",
+          "+36%",
+          "+43%",
+          "+50%"
+        ]
+      },
+      {
+        "name": "Stasis Webifier Strength",
+        "is_positive": false,
+        "magnitude_by_class": [
+          "-15%",
+          "-22%",
+          "-29%",
+          "-36%",
+          "-43%",
+          "-50%"
+        ]
+      },
+      {
+        "name": "Inertia",
+        "is_positive": false,
+        "magnitude_by_class": [
+          "+15%",
+          "+22%",
+          "+29%",
+          "+36%",
+          "+43%",
+          "+50%"
+        ]
+      },
+      {
+        "name": "Ship Velocity",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+30%",
+          "+44%",
+          "+58%",
+          "+72%",
+          "+86%",
+          "+100"
+        ]
+      },
+      {
+        "name": "Missile Explosion Velocity",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+30%",
+          "+44%",
+          "+58%",
+          "+72%",
+          "+86%",
+          "+100%"
+        ]
+      },
+      {
+        "name": "Targeting Range",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+30%",
+          "+44%",
+          "+58%",
+          "+72%",
+          "+86%",
+          "+100%"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cataclysmic Variable",
+    "modifiers": [
+      {
+        "name": "Remote Capacitor Transmitter Amount",
+        "is_positive": false,
+        "magnitude_by_class": [
+          "-15%",
+          "-22%",
+          "-29%",
+          "-36%",
+          "-43%",
+          "-50%"
+        ]
+      },
+      {
+        "name": "Capacitor Recharge Time",
+        "is_positive": false,
+        "magnitude_by_class": [
+          "+15%",
+          "+22%",
+          "+29%",
+          "+36%",
+          "+43%",
+          "+50%"
+        ]
+      },
+      {
+        "name": "Capacitor Capacity",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+30%",
+          "+44%",
+          "+58%",
+          "+72%",
+          "+86%",
+          "+100%"
+        ]
+      },
+      {
+        "name": "Remote Armor Repair Amount",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+30%",
+          "+44%",
+          "+58%",
+          "+72%",
+          "+86%",
+          "+100%"
+        ]
+      },
+      {
+        "name": "Local Armor Repair Amount",
+        "is_positive": false,
+        "magnitude_by_class": [
+          "-15%",
+          "-22%",
+          "-29%",
+          "-36%",
+          "-43%",
+          "-50%"
+        ]
+      },
+      {
+        "name": "Local Shield Repair Amount",
+        "is_positive": false,
+        "magnitude_by_class": [
+          "-15%",
+          "-22%",
+          "-29%",
+          "-36%",
+          "-43%",
+          "-50%"
+        ]
+      },
+      {
+        "name": "Shield Transfer Amount",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+30%",
+          "+44%",
+          "+58%",
+          "+72%",
+          "+86%",
+          "+100%"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pulsar",
+    "modifiers": [
+      {
+        "name": "Armor Resists",
+        "is_positive": false,
+        "magnitude_by_class": [
+          "-15%",
+          "-22%",
+          "-29%",
+          "-36%",
+          "-43%",
+          "-50%"
+        ]
+      },
+      {
+        "name": "Shield Capacity",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+30%",
+          "+44%",
+          "+58%",
+          "+72%",
+          "+86%",
+          "+100%"
+        ]
+      },
+      {
+        "name": "Capacitor Recharge Time",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "-15%",
+          "-22%",
+          "-29%",
+          "-36%",
+          "-43%",
+          "-50%"
+        ]
+      },
+      {
+        "name": "Signature Radius",
+        "is_positive": false,
+        "magnitude_by_class": [
+          "+30%",
+          "+44%",
+          "+58%",
+          "+72%",
+          "+86%",
+          "+100%"
+        ]
+      },
+      {
+        "name": "NOS & Neut Drain Amount",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+30%",
+          "+44%",
+          "+58%",
+          "+72%",
+          "+86%",
+          "+100%"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Magnetar",
+    "modifiers": [
+      {
+        "name": "Drone Tracking",
+        "is_positive": false,
+        "magnitude_by_class": [
+          "-15%",
+          "-22%",
+          "-29%",
+          "-36%",
+          "-43%",
+          "-50%"
+        ]
+      },
+      {
+        "name": "Tracking Speed",
+        "is_positive": false,
+        "magnitude_by_class": [
+          "-15%",
+          "-22%",
+          "-29%",
+          "-36%",
+          "-43%",
+          "-50%"
+        ]
+      },
+      {
+        "name": "Target Painter Strength",
+        "is_positive": false,
+        "magnitude_by_class": [
+          "-15%",
+          "-22%",
+          "-29%",
+          "-36%",
+          "-43%",
+          "-50%"
+        ]
+      },
+      {
+        "name": "Damage",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+30%",
+          "+44%",
+          "+58%",
+          "+72%",
+          "+86%",
+          "+100%"
+        ]
+      },
+      {
+        "name": "Targeting Range",
+        "is_positive": false,
+        "magnitude_by_class": [
+          "-15%",
+          "-22%",
+          "-29%",
+          "-36%",
+          "-43%",
+          "-50%"
+        ]
+      },
+      {
+        "name": "Missile Explosion Radius",
+        "is_positive": false,
+        "magnitude_by_class": [
+          "+15%",
+          "+22%",
+          "+29%",
+          "+36%",
+          "+43%",
+          "+50%"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wolf-Rayet Star",
+    "modifiers": [
+      {
+        "name": "Small Weapon Damage",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+60%",
+          "+88%",
+          "+116%",
+          "+144%",
+          "+172%",
+          "+200%"
+        ]
+      },
+      {
+        "name": "Armor HP",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+30%",
+          "+44%",
+          "+58%",
+          "+72%",
+          "+86%",
+          "+100%"
+        ]
+      },
+      {
+        "name": "Shield Resist",
+        "is_positive": false,
+        "magnitude_by_class": [
+          "-15%",
+          "-22%",
+          "-29%",
+          "-36%",
+          "-43%",
+          "-50%"
+        ]
+      },
+      {
+        "name": "Signature Radius",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "-15%",
+          "-22%",
+          "-29%",
+          "-36%",
+          "-43%",
+          "-50%"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Imperial Stellar Observatory",
+    "modifiers": [
+      {
+        "name": "Armor capacity",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+10%"
+        ]
+      },
+      {
+        "name": "Energy warfare capacitor drain",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+10%"
+        ]
+      },
+      {
+        "name": "Mining speed",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+10%"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "State Stellar Observatory",
+    "modifiers": [
+      {
+        "name": "Shield capacity",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+10%"
+        ]
+      },
+      {
+        "name": "ECM range",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+10%"
+        ]
+      },
+      {
+        "name": "Mining speed",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+10%"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Republic Stellar Observatory",
+    "modifiers": [
+      {
+        "name": "Shield capacity",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+10%"
+        ]
+      },
+      {
+        "name": "Webifier range",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+10%"
+        ]
+      },
+      {
+        "name": "Mining speed",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+10%"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Federal Stellar Observatory",
+    "modifiers": [
+      {
+        "name": "Armor capacity",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+10%"
+        ]
+      },
+      {
+        "name": "Warp scramble strength",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+1"
+        ]
+      },
+      {
+        "name": "Mining speed",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+10%"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dazh Liminality Locus",
+    "modifiers": [
+      {
+        "name": "Remote armor repair",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+25%"
+        ]
+      },
+      {
+        "name": "Remote shield boost",
+        "is_positive": true,
+        "magnitude_by_class": [
+          "+25%"
+        ]
+      },
+      {
+        "name": "Warp speed",
+        "is_positive": false,
+        "magnitude_by_class": [
+          "-30%"
+        ]
+      },
+      {
+        "name": "Maximum locked targets",
+        "is_positive": false,
+        "magnitude_by_class": [
+          "-50%"
+        ]
+      }
+    ]
+  }
+]

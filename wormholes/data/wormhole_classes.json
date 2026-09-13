@@ -1,0 +1,254 @@
+[
+  {
+    "class_id": -1,
+    "slug": "ccp1",
+    "short_name": "CCP",
+    "title": "CCP System",
+    "short_title": "CCP",
+    "effect_power": null,
+    "category": "ccp"
+  },
+  {
+    "class_id": 1,
+    "slug": "c1",
+    "short_name": "C1",
+    "title": "Class 1",
+    "short_title": "C1",
+    "effect_power": 1,
+    "category": "numbered"
+  },
+  {
+    "class_id": 2,
+    "slug": "c2",
+    "short_name": "C2",
+    "title": "Class 2",
+    "short_title": "C2",
+    "effect_power": 2,
+    "category": "numbered"
+  },
+  {
+    "class_id": 3,
+    "slug": "c3",
+    "short_name": "C3",
+    "title": "Class 3",
+    "short_title": "C3",
+    "effect_power": 3,
+    "category": "numbered"
+  },
+  {
+    "class_id": 4,
+    "slug": "c4",
+    "short_name": "C4",
+    "title": "Class 4",
+    "short_title": "C4",
+    "effect_power": 4,
+    "category": "numbered"
+  },
+  {
+    "class_id": 5,
+    "slug": "c5",
+    "short_name": "C5",
+    "title": "Class 5",
+    "short_title": "C5",
+    "effect_power": 5,
+    "category": "numbered"
+  },
+  {
+    "class_id": 6,
+    "slug": "c6",
+    "short_name": "C6",
+    "title": "Class 6",
+    "short_title": "C6",
+    "effect_power": 6,
+    "category": "numbered"
+  },
+  {
+    "class_id": 7,
+    "slug": "hs",
+    "short_name": "H",
+    "title": "High-sec",
+    "short_title": "High-sec",
+    "effect_power": null,
+    "category": "known_space"
+  },
+  {
+    "class_id": 8,
+    "slug": "ls",
+    "short_name": "L",
+    "title": "Low-sec",
+    "short_title": "Low-sec",
+    "effect_power": null,
+    "category": "known_space"
+  },
+  {
+    "class_id": 9,
+    "slug": "ns",
+    "short_name": "N",
+    "title": "Null-sec",
+    "short_title": "Null-sec",
+    "effect_power": null,
+    "category": "known_space"
+  },
+  {
+    "class_id": 10,
+    "slug": "ccp2",
+    "short_name": "CCP",
+    "title": "CCP System",
+    "short_title": "CCP",
+    "effect_power": null,
+    "category": "ccp"
+  },
+  {
+    "class_id": 11,
+    "slug": "ccp3",
+    "short_name": "CCP",
+    "title": "CCP System",
+    "short_title": "CCP",
+    "effect_power": null,
+    "category": "ccp"
+  },
+  {
+    "class_id": 12,
+    "slug": "thera",
+    "short_name": "T",
+    "title": "Class 12 (Thera)",
+    "short_title": "Thera",
+    "effect_power": null,
+    "category": "thera"
+  },
+  {
+    "class_id": 13,
+    "slug": "c13",
+    "short_name": "C13",
+    "title": "Class 13 (Shattered Frigate)",
+    "short_title": "C13",
+    "effect_power": 6,
+    "category": "shattered_frigate"
+  },
+  {
+    "class_id": 14,
+    "slug": "sentinel",
+    "short_name": "D",
+    "title": "Class 14 (Sentinel Drifter)",
+    "short_title": "Sentinel MZ",
+    "effect_power": 2,
+    "category": "drifter"
+  },
+  {
+    "class_id": 15,
+    "slug": "barbican",
+    "short_name": "D",
+    "title": "Class 15 (Barbican Drifter)",
+    "short_title": "Lib. Barbican",
+    "effect_power": 2,
+    "category": "drifter"
+  },
+  {
+    "class_id": 16,
+    "slug": "vidette",
+    "short_name": "D",
+    "title": "Class 16 (Vidette Drifter)",
+    "short_title": "Sanct. Vidette",
+    "effect_power": 2,
+    "category": "drifter"
+  },
+  {
+    "class_id": 17,
+    "slug": "conflux",
+    "short_name": "D",
+    "title": "Class 17 (Conflux Drifter)",
+    "short_title": "Conflux Eyrie",
+    "effect_power": 2,
+    "category": "drifter"
+  },
+  {
+    "class_id": 18,
+    "slug": "redoubt",
+    "short_name": "D",
+    "title": "Class 18 (Redoubt Drifter)",
+    "short_title": "Azdaja Redoubt",
+    "effect_power": 2,
+    "category": "drifter"
+  },
+  {
+    "class_id": 19,
+    "slug": "a1",
+    "short_name": "A1",
+    "title": "(Abyssal class 1)",
+    "short_title": "A1",
+    "effect_power": null,
+    "category": "abyssal"
+  },
+  {
+    "class_id": 20,
+    "slug": "a2",
+    "short_name": "A2",
+    "title": "(Abyssal class 2)",
+    "short_title": "A2",
+    "effect_power": null,
+    "category": "abyssal"
+  },
+  {
+    "class_id": 21,
+    "slug": "a3",
+    "short_name": "A3",
+    "title": "(Abyssal class 3)",
+    "short_title": "A3",
+    "effect_power": null,
+    "category": "abyssal"
+  },
+  {
+    "class_id": 22,
+    "slug": "a4",
+    "short_name": "A4",
+    "title": "(Abyssal class 4)",
+    "short_title": "A4",
+    "effect_power": null,
+    "category": "abyssal"
+  },
+  {
+    "class_id": 23,
+    "slug": "a5",
+    "short_name": "A5",
+    "title": "(Abyssal class 5)",
+    "short_title": "A5",
+    "effect_power": null,
+    "category": "abyssal"
+  },
+  {
+    "class_id": 24,
+    "slug": "ccp4",
+    "short_name": "CCP",
+    "title": "CCP System (Penalty)",
+    "short_title": "CCP",
+    "effect_power": null,
+    "category": "ccp"
+  },
+  {
+    "class_id": 25,
+    "slug": "pochven",
+    "short_name": "P",
+    "title": "Triglavian space (Pochven)",
+    "short_title": "Pochven",
+    "effect_power": null,
+    "category": "pochven"
+  },
+  {
+    "class_id": 10100,
+    "slug": "zarzakh",
+    "short_name": "N",
+    "title": "Pirate space",
+    "short_title": "Zarzakh",
+    "effect_power": null,
+    "category": "pirate"
+  },
+  {
+    "class_id": 10101,
+    "slug": "k162",
+    "short_name": "K162",
+    "title": "Reverse",
+    "short_title": "K162",
+    "effect_power": null,
+    "category": "reverse"
+  }
+]

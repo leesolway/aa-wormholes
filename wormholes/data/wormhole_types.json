@@ -1,0 +1,1946 @@
+[
+  {
+    "code": "A009",
+    "lifetime_hours": "4.5",
+    "total_mass": 500000000,
+    "max_jump_mass": 5000000,
+    "mass_regeneration": 3000000000,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c1",
+      "c13",
+      "c2",
+      "c3",
+      "c4",
+      "c5",
+      "c6",
+      "ns",
+      "thera"
+    ],
+    "leads_to": [
+      "c13"
+    ]
+  },
+  {
+    "code": "A239",
+    "lifetime_hours": "24",
+    "total_mass": 2000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c2"
+    ],
+    "leads_to": [
+      "ls"
+    ]
+  },
+  {
+    "code": "A641",
+    "lifetime_hours": "16",
+    "total_mass": 2000000000,
+    "max_jump_mass": 1000000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "hs"
+    ],
+    "leads_to": [
+      "hs"
+    ]
+  },
+  {
+    "code": "A982",
+    "lifetime_hours": "24",
+    "total_mass": 3000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c3",
+      "thera"
+    ],
+    "leads_to": [
+      "c6"
+    ]
+  },
+  {
+    "code": "B041",
+    "lifetime_hours": "48",
+    "total_mass": 3000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 500000000,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "hs"
+    ],
+    "leads_to": [
+      "c6"
+    ]
+  },
+  {
+    "code": "B274",
+    "lifetime_hours": "24",
+    "total_mass": 2000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c2"
+    ],
+    "leads_to": [
+      "hs"
+    ]
+  },
+  {
+    "code": "B449",
+    "lifetime_hours": "16",
+    "total_mass": 2000000000,
+    "max_jump_mass": 1000000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "ls",
+      "ns"
+    ],
+    "leads_to": [
+      "hs"
+    ]
+  },
+  {
+    "code": "B520",
+    "lifetime_hours": "48",
+    "total_mass": 3000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 500000000,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c6"
+    ],
+    "leads_to": [
+      "hs"
+    ]
+  },
+  {
+    "code": "B735",
+    "lifetime_hours": "16",
+    "total_mass": 750000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": null,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": true,
+    "spawns_in": [
+      "hs",
+      "ls",
+      "ns"
+    ],
+    "leads_to": [
+      "barbican"
+    ]
+  },
+  {
+    "code": "C008",
+    "lifetime_hours": "4.5",
+    "total_mass": 1000000000,
+    "max_jump_mass": 5000000,
+    "mass_regeneration": 3000000000,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c1",
+      "c13",
+      "c2",
+      "c3",
+      "c4",
+      "c5",
+      "c6",
+      "thera"
+    ],
+    "leads_to": [
+      "c5"
+    ]
+  },
+  {
+    "code": "C125",
+    "lifetime_hours": "16",
+    "total_mass": 1000000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c1"
+    ],
+    "leads_to": [
+      "c2"
+    ]
+  },
+  {
+    "code": "C140",
+    "lifetime_hours": "24",
+    "total_mass": 3300000000,
+    "max_jump_mass": 1350000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c5",
+      "c6"
+    ],
+    "leads_to": [
+      "ls"
+    ]
+  },
+  {
+    "code": "C247",
+    "lifetime_hours": "16",
+    "total_mass": 2000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c4"
+    ],
+    "leads_to": [
+      "c3"
+    ]
+  },
+  {
+    "code": "C248",
+    "lifetime_hours": "24",
+    "total_mass": 3300000000,
+    "max_jump_mass": 1350000000,
+    "mass_regeneration": 500000000,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c6"
+    ],
+    "leads_to": [
+      "ns"
+    ]
+  },
+  {
+    "code": "C391",
+    "lifetime_hours": "48",
+    "total_mass": 3300000000,
+    "max_jump_mass": 1000000000,
+    "mass_regeneration": 500000000,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c6"
+    ],
+    "leads_to": [
+      "ls"
+    ]
+  },
+  {
+    "code": "C414",
+    "lifetime_hours": "16",
+    "total_mass": 750000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": null,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": true,
+    "spawns_in": [
+      "hs",
+      "ls",
+      "ns"
+    ],
+    "leads_to": [
+      "conflux"
+    ]
+  },
+  {
+    "code": "C729",
+    "lifetime_hours": "12",
+    "total_mass": 1000000000,
+    "max_jump_mass": 1000000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "pochven"
+    ],
+    "leads_to": [
+      "hs",
+      "ls",
+      "ns",
+      "pochven"
+    ]
+  },
+  {
+    "code": "D364",
+    "lifetime_hours": "16",
+    "total_mass": 1000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c5"
+    ],
+    "leads_to": [
+      "c2"
+    ]
+  },
+  {
+    "code": "D382",
+    "lifetime_hours": "16",
+    "total_mass": 2000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "barbican",
+      "c2",
+      "conflux",
+      "redoubt",
+      "sentinel",
+      "vidette"
+    ],
+    "leads_to": [
+      "c2"
+    ]
+  },
+  {
+    "code": "D792",
+    "lifetime_hours": "24",
+    "total_mass": 3000000000,
+    "max_jump_mass": 1000000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c5",
+      "c6"
+    ],
+    "leads_to": [
+      "hs"
+    ]
+  },
+  {
+    "code": "D845",
+    "lifetime_hours": "24",
+    "total_mass": 5000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 500000000,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": true,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c3",
+      "c4"
+    ],
+    "leads_to": [
+      "hs"
+    ]
+  },
+  {
+    "code": "E004",
+    "lifetime_hours": "4.5",
+    "total_mass": 1000000000,
+    "max_jump_mass": 5000000,
+    "mass_regeneration": 3000000000,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c1",
+      "c13",
+      "c2",
+      "c3",
+      "c4",
+      "c5",
+      "c6",
+      "thera"
+    ],
+    "leads_to": [
+      "c1"
+    ]
+  },
+  {
+    "code": "E175",
+    "lifetime_hours": "16",
+    "total_mass": 2000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c5"
+    ],
+    "leads_to": [
+      "c4"
+    ]
+  },
+  {
+    "code": "E545",
+    "lifetime_hours": "16",
+    "total_mass": 2000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c2"
+    ],
+    "leads_to": [
+      "ns"
+    ]
+  },
+  {
+    "code": "E587",
+    "lifetime_hours": "48",
+    "total_mass": 3000000000,
+    "max_jump_mass": 1000000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "thera"
+    ],
+    "leads_to": [
+      "ns"
+    ]
+  },
+  {
+    "code": "F135",
+    "lifetime_hours": "16",
+    "total_mass": 750000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": true,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c2",
+      "c3",
+      "c4",
+      "c5",
+      "c6"
+    ],
+    "leads_to": [
+      "thera"
+    ]
+  },
+  {
+    "code": "F216",
+    "lifetime_hours": "12",
+    "total_mass": 1000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": true,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c2",
+      "c3",
+      "c4",
+      "c5",
+      "c6"
+    ],
+    "leads_to": [
+      "pochven"
+    ]
+  },
+  {
+    "code": "F353",
+    "lifetime_hours": "16",
+    "total_mass": 100000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": true,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c1"
+    ],
+    "leads_to": [
+      "thera"
+    ]
+  },
+  {
+    "code": "G008",
+    "lifetime_hours": "4.5",
+    "total_mass": 1000000000,
+    "max_jump_mass": 5000000,
+    "mass_regeneration": 3000000000,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c1",
+      "c13",
+      "c2",
+      "c3",
+      "c4",
+      "c5",
+      "c6",
+      "thera"
+    ],
+    "leads_to": [
+      "c6"
+    ]
+  },
+  {
+    "code": "G024",
+    "lifetime_hours": "16",
+    "total_mass": 2000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c6"
+    ],
+    "leads_to": [
+      "c2"
+    ]
+  },
+  {
+    "code": "H121",
+    "lifetime_hours": "16",
+    "total_mass": 500000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c1"
+    ],
+    "leads_to": [
+      "c1"
+    ]
+  },
+  {
+    "code": "H296",
+    "lifetime_hours": "24",
+    "total_mass": 3300000000,
+    "max_jump_mass": 2000000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c5"
+    ],
+    "leads_to": [
+      "c5"
+    ]
+  },
+  {
+    "code": "H900",
+    "lifetime_hours": "24",
+    "total_mass": 3000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c4"
+    ],
+    "leads_to": [
+      "c5"
+    ]
+  },
+  {
+    "code": "I182",
+    "lifetime_hours": "16",
+    "total_mass": 2000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c3",
+      "thera"
+    ],
+    "leads_to": [
+      "c2"
+    ]
+  },
+  {
+    "code": "J244",
+    "lifetime_hours": "24",
+    "total_mass": 1000000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c1"
+    ],
+    "leads_to": [
+      "ls"
+    ]
+  },
+  {
+    "code": "J377",
+    "lifetime_hours": "24",
+    "total_mass": 1000000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": true,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c1",
+      "c2",
+      "c3",
+      "c4",
+      "thera"
+    ],
+    "leads_to": [
+      "ls"
+    ]
+  },
+  {
+    "code": "K329",
+    "lifetime_hours": "24",
+    "total_mass": 3000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c4"
+    ],
+    "leads_to": [
+      "ns"
+    ]
+  },
+  {
+    "code": "K346",
+    "lifetime_hours": "16",
+    "total_mass": 3000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": true,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c3",
+      "c4",
+      "c5",
+      "c6"
+    ],
+    "leads_to": [
+      "ns"
+    ]
+  },
+  {
+    "code": "L005",
+    "lifetime_hours": "4.5",
+    "total_mass": 1000000000,
+    "max_jump_mass": 5000000,
+    "mass_regeneration": 3000000000,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c1",
+      "c13",
+      "c2",
+      "c3",
+      "c4",
+      "c5",
+      "c6",
+      "thera"
+    ],
+    "leads_to": [
+      "c2"
+    ]
+  },
+  {
+    "code": "L031",
+    "lifetime_hours": "16",
+    "total_mass": 3000000000,
+    "max_jump_mass": 1000000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": true,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "ns"
+    ],
+    "leads_to": [
+      "thera"
+    ]
+  },
+  {
+    "code": "L477",
+    "lifetime_hours": "16",
+    "total_mass": 2000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c6"
+    ],
+    "leads_to": [
+      "c3"
+    ]
+  },
+  {
+    "code": "L614",
+    "lifetime_hours": "24",
+    "total_mass": 1000000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c1",
+      "ns"
+    ],
+    "leads_to": [
+      "c5"
+    ]
+  },
+  {
+    "code": "M001",
+    "lifetime_hours": "4.5",
+    "total_mass": 1000000000,
+    "max_jump_mass": 5000000,
+    "mass_regeneration": 3000000000,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c1",
+      "c13",
+      "c2",
+      "c3",
+      "c4",
+      "c5",
+      "c6",
+      "thera"
+    ],
+    "leads_to": [
+      "c4"
+    ]
+  },
+  {
+    "code": "M164",
+    "lifetime_hours": "16",
+    "total_mass": 2000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": true,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "ls"
+    ],
+    "leads_to": [
+      "thera"
+    ]
+  },
+  {
+    "code": "M267",
+    "lifetime_hours": "16",
+    "total_mass": 1000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c5"
+    ],
+    "leads_to": [
+      "c3"
+    ]
+  },
+  {
+    "code": "M555",
+    "lifetime_hours": "24",
+    "total_mass": 3000000000,
+    "max_jump_mass": 1000000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "hs"
+    ],
+    "leads_to": [
+      "c5"
+    ]
+  },
+  {
+    "code": "M609",
+    "lifetime_hours": "16",
+    "total_mass": 1000000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c1"
+    ],
+    "leads_to": [
+      "c4"
+    ]
+  },
+  {
+    "code": "N062",
+    "lifetime_hours": "24",
+    "total_mass": 3000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "barbican",
+      "c2",
+      "conflux",
+      "redoubt",
+      "sentinel",
+      "vidette"
+    ],
+    "leads_to": [
+      "c5"
+    ]
+  },
+  {
+    "code": "N110",
+    "lifetime_hours": "24",
+    "total_mass": 1000000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c1"
+    ],
+    "leads_to": [
+      "hs"
+    ]
+  },
+  {
+    "code": "N290",
+    "lifetime_hours": "24",
+    "total_mass": 3000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c4"
+    ],
+    "leads_to": [
+      "ls"
+    ]
+  },
+  {
+    "code": "N432",
+    "lifetime_hours": "24",
+    "total_mass": 3300000000,
+    "max_jump_mass": 2000000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "ls",
+      "ns"
+    ],
+    "leads_to": [
+      "c5"
+    ]
+  },
+  {
+    "code": "N766",
+    "lifetime_hours": "16",
+    "total_mass": 2000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c4"
+    ],
+    "leads_to": [
+      "c2"
+    ]
+  },
+  {
+    "code": "N770",
+    "lifetime_hours": "24",
+    "total_mass": 3000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c3",
+      "thera"
+    ],
+    "leads_to": [
+      "c5"
+    ]
+  },
+  {
+    "code": "N944",
+    "lifetime_hours": "24",
+    "total_mass": 3300000000,
+    "max_jump_mass": 2000000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "ls",
+      "ns"
+    ],
+    "leads_to": [
+      "ls"
+    ]
+  },
+  {
+    "code": "N968",
+    "lifetime_hours": "16",
+    "total_mass": 2000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c3",
+      "thera"
+    ],
+    "leads_to": [
+      "c3"
+    ]
+  },
+  {
+    "code": "O128",
+    "lifetime_hours": "24",
+    "total_mass": 1000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 100000000,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "hs",
+      "ls",
+      "ns"
+    ],
+    "leads_to": [
+      "c4"
+    ]
+  },
+  {
+    "code": "O477",
+    "lifetime_hours": "16",
+    "total_mass": 2000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "barbican",
+      "c2",
+      "conflux",
+      "redoubt",
+      "sentinel",
+      "vidette"
+    ],
+    "leads_to": [
+      "c3"
+    ]
+  },
+  {
+    "code": "O883",
+    "lifetime_hours": "16",
+    "total_mass": 1000000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c1",
+      "ns"
+    ],
+    "leads_to": [
+      "c3"
+    ]
+  },
+  {
+    "code": "P060",
+    "lifetime_hours": "16",
+    "total_mass": 500000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c4"
+    ],
+    "leads_to": [
+      "c1"
+    ]
+  },
+  {
+    "code": "Q003",
+    "lifetime_hours": "4.5",
+    "total_mass": 1000000000,
+    "max_jump_mass": 5000000,
+    "mass_regeneration": 3000000000,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c1",
+      "c13",
+      "c2",
+      "c3",
+      "c4",
+      "c5",
+      "c6",
+      "thera"
+    ],
+    "leads_to": [
+      "ns"
+    ]
+  },
+  {
+    "code": "Q063",
+    "lifetime_hours": "16",
+    "total_mass": 500000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "thera"
+    ],
+    "leads_to": [
+      "hs"
+    ]
+  },
+  {
+    "code": "Q317",
+    "lifetime_hours": "16",
+    "total_mass": 500000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c6"
+    ],
+    "leads_to": [
+      "c1"
+    ]
+  },
+  {
+    "code": "R051",
+    "lifetime_hours": "16",
+    "total_mass": 3000000000,
+    "max_jump_mass": 1000000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "hs"
+    ],
+    "leads_to": [
+      "ls"
+    ]
+  },
+  {
+    "code": "R081",
+    "lifetime_hours": "12",
+    "total_mass": 1000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "pochven"
+    ],
+    "leads_to": [
+      "c4"
+    ]
+  },
+  {
+    "code": "R259",
+    "lifetime_hours": "16",
+    "total_mass": 750000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": null,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": true,
+    "spawns_in": [
+      "hs",
+      "ls",
+      "ns"
+    ],
+    "leads_to": [
+      "redoubt"
+    ]
+  },
+  {
+    "code": "R474",
+    "lifetime_hours": "24",
+    "total_mass": 3000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "barbican",
+      "c2",
+      "conflux",
+      "redoubt",
+      "sentinel",
+      "vidette"
+    ],
+    "leads_to": [
+      "c6"
+    ]
+  },
+  {
+    "code": "R943",
+    "lifetime_hours": "16",
+    "total_mass": 750000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "hs",
+      "ls",
+      "ns"
+    ],
+    "leads_to": [
+      "c2"
+    ]
+  },
+  {
+    "code": "S047",
+    "lifetime_hours": "24",
+    "total_mass": 3000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c4"
+    ],
+    "leads_to": [
+      "hs"
+    ]
+  },
+  {
+    "code": "S199",
+    "lifetime_hours": "24",
+    "total_mass": 3300000000,
+    "max_jump_mass": 2000000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "ls",
+      "ns"
+    ],
+    "leads_to": [
+      "ns"
+    ]
+  },
+  {
+    "code": "S804",
+    "lifetime_hours": "24",
+    "total_mass": 1000000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c1",
+      "ns"
+    ],
+    "leads_to": [
+      "c6"
+    ]
+  },
+  {
+    "code": "S877",
+    "lifetime_hours": "16",
+    "total_mass": 750000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": null,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": true,
+    "spawns_in": [
+      "hs",
+      "ls",
+      "ns"
+    ],
+    "leads_to": [
+      "sentinel"
+    ]
+  },
+  {
+    "code": "T405",
+    "lifetime_hours": "16",
+    "total_mass": 2000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c3",
+      "thera"
+    ],
+    "leads_to": [
+      "c4"
+    ]
+  },
+  {
+    "code": "T458",
+    "lifetime_hours": "16",
+    "total_mass": 500000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": true,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "hs"
+    ],
+    "leads_to": [
+      "thera"
+    ]
+  },
+  {
+    "code": "U210",
+    "lifetime_hours": "24",
+    "total_mass": 3000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": true,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c3",
+      "c4",
+      "c5"
+    ],
+    "leads_to": [
+      "ls"
+    ]
+  },
+  {
+    "code": "U319",
+    "lifetime_hours": "48",
+    "total_mass": 3300000000,
+    "max_jump_mass": 2000000000,
+    "mass_regeneration": 500000000,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "ls",
+      "ns"
+    ],
+    "leads_to": [
+      "c6"
+    ]
+  },
+  {
+    "code": "U372",
+    "lifetime_hours": "12",
+    "total_mass": 1000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": true,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "ns"
+    ],
+    "leads_to": [
+      "pochven"
+    ]
+  },
+  {
+    "code": "U574",
+    "lifetime_hours": "24",
+    "total_mass": 3000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c4"
+    ],
+    "leads_to": [
+      "c6"
+    ]
+  },
+  {
+    "code": "V283",
+    "lifetime_hours": "16",
+    "total_mass": 3000000000,
+    "max_jump_mass": 1000000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "hs"
+    ],
+    "leads_to": [
+      "ns"
+    ]
+  },
+  {
+    "code": "V301",
+    "lifetime_hours": "16",
+    "total_mass": 500000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c3",
+      "thera"
+    ],
+    "leads_to": [
+      "c1"
+    ]
+  },
+  {
+    "code": "V753",
+    "lifetime_hours": "24",
+    "total_mass": 3300000000,
+    "max_jump_mass": 2000000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c5"
+    ],
+    "leads_to": [
+      "c6"
+    ]
+  },
+  {
+    "code": "V898",
+    "lifetime_hours": "16",
+    "total_mass": 2000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "thera"
+    ],
+    "leads_to": [
+      "ls"
+    ]
+  },
+  {
+    "code": "V911",
+    "lifetime_hours": "24",
+    "total_mass": 3300000000,
+    "max_jump_mass": 2000000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c6"
+    ],
+    "leads_to": [
+      "c5"
+    ]
+  },
+  {
+    "code": "V928",
+    "lifetime_hours": "16",
+    "total_mass": 750000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": null,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": true,
+    "spawns_in": [
+      "hs",
+      "ls",
+      "ns"
+    ],
+    "leads_to": [
+      "vidette"
+    ]
+  },
+  {
+    "code": "W237",
+    "lifetime_hours": "24",
+    "total_mass": 3300000000,
+    "max_jump_mass": 2000000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c6"
+    ],
+    "leads_to": [
+      "c6"
+    ]
+  },
+  {
+    "code": "X450",
+    "lifetime_hours": "12",
+    "total_mass": 1000000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "pochven"
+    ],
+    "leads_to": [
+      "ns"
+    ]
+  },
+  {
+    "code": "X702",
+    "lifetime_hours": "24",
+    "total_mass": 1000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "hs",
+      "ls",
+      "ns"
+    ],
+    "leads_to": [
+      "c3"
+    ]
+  },
+  {
+    "code": "X877",
+    "lifetime_hours": "16",
+    "total_mass": 2000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c4"
+    ],
+    "leads_to": [
+      "c4"
+    ]
+  },
+  {
+    "code": "Y683",
+    "lifetime_hours": "16",
+    "total_mass": 2000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "barbican",
+      "c2",
+      "conflux",
+      "redoubt",
+      "sentinel",
+      "vidette"
+    ],
+    "leads_to": [
+      "c4"
+    ]
+  },
+  {
+    "code": "Y790",
+    "lifetime_hours": "16",
+    "total_mass": 500000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c5"
+    ],
+    "leads_to": [
+      "c1"
+    ]
+  },
+  {
+    "code": "Z006",
+    "lifetime_hours": "4.5",
+    "total_mass": 1000000000,
+    "max_jump_mass": 5000000,
+    "mass_regeneration": 3000000000,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c1",
+      "c13",
+      "c2",
+      "c3",
+      "c4",
+      "c5",
+      "c6",
+      "thera"
+    ],
+    "leads_to": [
+      "c3"
+    ]
+  },
+  {
+    "code": "Z060",
+    "lifetime_hours": "16",
+    "total_mass": 1000000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": false,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c1"
+    ],
+    "leads_to": [
+      "ns"
+    ]
+  },
+  {
+    "code": "Z142",
+    "lifetime_hours": "16",
+    "total_mass": 3300000000,
+    "max_jump_mass": 2000000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c5",
+      "c6"
+    ],
+    "leads_to": [
+      "ns"
+    ]
+  },
+  {
+    "code": "Z457",
+    "lifetime_hours": "16",
+    "total_mass": 2000000000,
+    "max_jump_mass": 375000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c6"
+    ],
+    "leads_to": [
+      "c4"
+    ]
+  },
+  {
+    "code": "Z647",
+    "lifetime_hours": "16",
+    "total_mass": 500000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": true,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "barbican",
+      "c2",
+      "conflux",
+      "redoubt",
+      "sentinel",
+      "vidette"
+    ],
+    "leads_to": [
+      "c1"
+    ]
+  },
+  {
+    "code": "Z971",
+    "lifetime_hours": "16",
+    "total_mass": 100000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "hs",
+      "ls",
+      "ns"
+    ],
+    "leads_to": [
+      "c1"
+    ]
+  },
+  {
+    "code": "J492",
+    "lifetime_hours": "24",
+    "total_mass": 100000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": true,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "c1",
+      "c2",
+      "c3",
+      "c4",
+      "c5",
+      "c6"
+    ],
+    "leads_to": [
+      "ls"
+    ]
+  },
+  {
+    "code": "K162",
+    "lifetime_hours": null,
+    "total_mass": null,
+    "max_jump_mass": null,
+    "mass_regeneration": null,
+    "is_static_capable": false,
+    "can_be_wandering": false,
+    "is_reverse_signature": true,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [],
+    "leads_to": []
+  },
+  {
+    "code": "I078",
+    "lifetime_hours": "4.5",
+    "total_mass": 100000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "pochven"
+    ],
+    "leads_to": [
+      "pochven"
+    ]
+  },
+  {
+    "code": "L687",
+    "lifetime_hours": "4.5",
+    "total_mass": 100000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "pochven"
+    ],
+    "leads_to": [
+      "pochven"
+    ]
+  },
+  {
+    "code": "O546",
+    "lifetime_hours": "4.5",
+    "total_mass": 100000000,
+    "max_jump_mass": 62000000,
+    "mass_regeneration": 0,
+    "is_static_capable": false,
+    "can_be_wandering": true,
+    "is_reverse_signature": false,
+    "spawns_in_shattered_system": false,
+    "spawns_at_jovian_observatory": false,
+    "spawns_in": [
+      "pochven"
+    ],
+    "leads_to": [
+      "pochven"
+    ]
+  }
+]
