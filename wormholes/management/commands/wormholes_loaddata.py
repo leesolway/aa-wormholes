@@ -60,7 +60,10 @@ class Command(BaseCommand):
     def _load_effects(self):
         count = 0
         for row in _load("effects.json"):
-            effect, _created = Effect.objects.update_or_create(name=row["name"])
+            effect, _created = Effect.objects.update_or_create(
+                name=row["name"],
+                defaults={"color": row.get("color", "")},
+            )
             for modifier in row["modifiers"]:
                 EffectModifier.objects.update_or_create(
                     effect=effect,

@@ -62,7 +62,8 @@
           "+100%"
         ]
       }
-    ]
+    ],
+    "color": "#e63232"
   },
   {
     "name": "Black Hole",
@@ -139,7 +140,8 @@
           "+100%"
         ]
       }
-    ]
+    ],
+    "color": "#1a6fd4"
   },
   {
     "name": "Cataclysmic Variable",
@@ -228,7 +230,8 @@
           "+100%"
         ]
       }
-    ]
+    ],
+    "color": "#f5c518"
   },
   {
     "name": "Pulsar",
@@ -293,7 +296,8 @@
           "+100%"
         ]
       }
-    ]
+    ],
+    "color": "#41b8ff"
   },
   {
     "name": "Magnetar",
@@ -370,7 +374,8 @@
           "+50%"
         ]
       }
-    ]
+    ],
+    "color": "#b84dff"
   },
   {
     "name": "Wolf-Rayet Star",
@@ -423,7 +428,8 @@
           "-50%"
         ]
       }
-    ]
+    ],
+    "color": "#ff7043"
   },
   {
     "name": "Imperial Stellar Observatory",
@@ -449,7 +455,8 @@
           "+10%"
         ]
       }
-    ]
+    ],
+    "color": "#c8a951"
   },
   {
     "name": "State Stellar Observatory",
@@ -475,7 +482,8 @@
           "+10%"
         ]
       }
-    ]
+    ],
+    "color": "#336699"
   },
   {
     "name": "Republic Stellar Observatory",
@@ -501,7 +509,8 @@
           "+10%"
         ]
       }
-    ]
+    ],
+    "color": "#cc3333"
   },
   {
     "name": "Federal Stellar Observatory",
@@ -527,7 +536,8 @@
           "+10%"
         ]
       }
-    ]
+    ],
+    "color": "#17a2b8"
   },
   {
     "name": "Dazh Liminality Locus",
@@ -560,6 +570,7 @@
           "-50%"
         ]
       }
-    ]
+    ],
+    "color": "#00c8b4"
   }
 ]
