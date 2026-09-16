@@ -52,6 +52,7 @@ class Command(BaseCommand):
                     "short_title": row["short_title"],
                     "effect_power": row["effect_power"],
                     "category": row["category"],
+                    "color": row.get("color", ""),
                 },
             )
             count += 1

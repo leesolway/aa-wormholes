@@ -47,6 +47,12 @@ class WormholeClass(models.Model):
         help_text=_("1-6 index into an Effect's per-strength modifier list for systems of this class."),
     )
     category = models.CharField(max_length=20, choices=Category.choices)
+    color = models.CharField(
+        max_length=20,
+        blank=True,
+        default="",
+        help_text=_("Hex colour used to represent this class in the UI."),
+    )
 
     class Meta:
         ordering = ["class_id"]

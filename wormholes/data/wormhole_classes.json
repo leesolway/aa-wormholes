@@ -6,7 +6,8 @@
     "title": "CCP System",
     "short_title": "CCP",
     "effect_power": null,
-    "category": "ccp"
+    "category": "ccp",
+    "color": ""
   },
   {
     "class_id": 1,
@@ -15,7 +16,8 @@
     "title": "Class 1",
     "short_title": "C1",
     "effect_power": 1,
-    "category": "numbered"
+    "category": "numbered",
+    "color": "#9aef85"
   },
   {
     "class_id": 2,
@@ -24,7 +26,8 @@
     "title": "Class 2",
     "short_title": "C2",
     "effect_power": 2,
-    "category": "numbered"
+    "category": "numbered",
+    "color": "#85efad"
   },
   {
     "class_id": 3,
@@ -33,7 +36,8 @@
     "title": "Class 3",
     "short_title": "C3",
     "effect_power": 3,
-    "category": "numbered"
+    "category": "numbered",
+    "color": "#85c3ef"
   },
   {
     "class_id": 4,
@@ -42,7 +46,8 @@
     "title": "Class 4",
     "short_title": "C4",
     "effect_power": 4,
-    "category": "numbered"
+    "category": "numbered",
+    "color": "#856def"
   },
   {
     "class_id": 5,
@@ -51,7 +56,8 @@
     "title": "Class 5",
     "short_title": "C5",
     "effect_power": 5,
-    "category": "numbered"
+    "category": "numbered",
+    "color": "#ef8585"
   },
   {
     "class_id": 6,
@@ -60,7 +66,8 @@
     "title": "Class 6",
     "short_title": "C6",
     "effect_power": 6,
-    "category": "numbered"
+    "category": "numbered",
+    "color": "#ef4444"
   },
   {
     "class_id": 7,
@@ -69,7 +76,8 @@
     "title": "High-sec",
     "short_title": "High-sec",
     "effect_power": null,
-    "category": "known_space"
+    "category": "known_space",
+    "color": "#3e9b3a"
   },
   {
     "class_id": 8,
@@ -78,7 +86,8 @@
     "title": "Low-sec",
     "short_title": "Low-sec",
     "effect_power": null,
-    "category": "known_space"
+    "category": "known_space",
+    "color": "#b9910e"
   },
   {
     "class_id": 9,
@@ -87,7 +96,8 @@
     "title": "Null-sec",
     "short_title": "Null-sec",
     "effect_power": null,
-    "category": "known_space"
+    "category": "known_space",
+    "color": "#b44747"
   },
   {
     "class_id": 10,
@@ -96,7 +106,8 @@
     "title": "CCP System",
     "short_title": "CCP",
     "effect_power": null,
-    "category": "ccp"
+    "category": "ccp",
+    "color": ""
   },
   {
     "class_id": 11,
@@ -105,7 +116,8 @@
     "title": "CCP System",
     "short_title": "CCP",
     "effect_power": null,
-    "category": "ccp"
+    "category": "ccp",
+    "color": ""
   },
   {
     "class_id": 12,
@@ -114,7 +126,8 @@
     "title": "Class 12 (Thera)",
     "short_title": "Thera",
     "effect_power": null,
-    "category": "thera"
+    "category": "thera",
+    "color": "#ff9900"
   },
   {
     "class_id": 13,
@@ -123,7 +136,8 @@
     "title": "Class 13 (Shattered Frigate)",
     "short_title": "C13",
     "effect_power": 6,
-    "category": "shattered_frigate"
+    "category": "shattered_frigate",
+    "color": "#efcd85"
   },
   {
     "class_id": 14,
@@ -132,7 +146,8 @@
     "title": "Class 14 (Sentinel Drifter)",
     "short_title": "Sentinel MZ",
     "effect_power": 2,
-    "category": "drifter"
+    "category": "drifter",
+    "color": "#b784a7"
   },
   {
     "class_id": 15,
@@ -141,7 +156,8 @@
     "title": "Class 15 (Barbican Drifter)",
     "short_title": "Lib. Barbican",
     "effect_power": 2,
-    "category": "drifter"
+    "category": "drifter",
+    "color": "#b784a7"
   },
   {
     "class_id": 16,
@@ -150,7 +166,8 @@
     "title": "Class 16 (Vidette Drifter)",
     "short_title": "Sanct. Vidette",
     "effect_power": 2,
-    "category": "drifter"
+    "category": "drifter",
+    "color": "#b784a7"
   },
   {
     "class_id": 17,
@@ -159,7 +176,8 @@
     "title": "Class 17 (Conflux Drifter)",
     "short_title": "Conflux Eyrie",
     "effect_power": 2,
-    "category": "drifter"
+    "category": "drifter",
+    "color": "#b784a7"
   },
   {
     "class_id": 18,
@@ -168,7 +186,8 @@
     "title": "Class 18 (Redoubt Drifter)",
     "short_title": "Azdaja Redoubt",
     "effect_power": 2,
-    "category": "drifter"
+    "category": "drifter",
+    "color": "#b784a7"
   },
   {
     "class_id": 19,
@@ -177,7 +196,8 @@
     "title": "(Abyssal class 1)",
     "short_title": "A1",
     "effect_power": null,
-    "category": "abyssal"
+    "category": "abyssal",
+    "color": ""
   },
   {
     "class_id": 20,
@@ -186,7 +206,8 @@
     "title": "(Abyssal class 2)",
     "short_title": "A2",
     "effect_power": null,
-    "category": "abyssal"
+    "category": "abyssal",
+    "color": ""
   },
   {
     "class_id": 21,
@@ -195,7 +216,8 @@
     "title": "(Abyssal class 3)",
     "short_title": "A3",
     "effect_power": null,
-    "category": "abyssal"
+    "category": "abyssal",
+    "color": ""
   },
   {
     "class_id": 22,
@@ -204,7 +226,8 @@
     "title": "(Abyssal class 4)",
     "short_title": "A4",
     "effect_power": null,
-    "category": "abyssal"
+    "category": "abyssal",
+    "color": ""
   },
   {
     "class_id": 23,
@@ -213,7 +236,8 @@
     "title": "(Abyssal class 5)",
     "short_title": "A5",
     "effect_power": null,
-    "category": "abyssal"
+    "category": "abyssal",
+    "color": ""
   },
   {
     "class_id": 24,
@@ -222,7 +246,8 @@
     "title": "CCP System (Penalty)",
     "short_title": "CCP",
     "effect_power": null,
-    "category": "ccp"
+    "category": "ccp",
+    "color": ""
   },
   {
     "class_id": 25,
@@ -231,7 +256,8 @@
     "title": "Triglavian space (Pochven)",
     "short_title": "Pochven",
     "effect_power": null,
-    "category": "pochven"
+    "category": "pochven",
+    "color": "#ac3b3b"
   },
   {
     "class_id": 10100,
@@ -240,7 +266,8 @@
     "title": "Pirate space",
     "short_title": "Zarzakh",
     "effect_power": null,
-    "category": "pirate"
+    "category": "pirate",
+    "color": ""
   },
   {
     "class_id": 10101,
@@ -249,6 +276,7 @@
     "title": "Reverse",
     "short_title": "K162",
     "effect_power": null,
-    "category": "reverse"
+    "category": "reverse",
+    "color": ""
   }
 ]
