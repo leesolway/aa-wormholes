@@ -76,6 +76,21 @@ class Effect(models.Model):
     of the Pochven Stellar Observatory effects).
     """
 
+    # Display colours that approximate EVE Online's visual palette for each effect.
+    COLORS: dict[str, str] = {
+        "Black Hole":                   "#1a6fd4",
+        "Cataclysmic Variable":         "#f5c518",
+        "Dazh Liminality Locus":        "#00c8b4",
+        "Federal Stellar Observatory":  "#17a2b8",
+        "Imperial Stellar Observatory": "#c8a951",
+        "Magnetar":                     "#b84dff",
+        "Pulsar":                       "#41b8ff",
+        "Red Giant":                    "#e63232",
+        "Republic Stellar Observatory": "#cc3333",
+        "State Stellar Observatory":    "#336699",
+        "Wolf-Rayet Star":              "#ff7043",
+    }
+
     name = models.CharField(max_length=64, primary_key=True)
 
     class Meta:
